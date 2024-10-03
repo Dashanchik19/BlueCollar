@@ -1,0 +1,9 @@
+.vscode
+.idea
+.temporary_cache
+
+src
+README.md
+node_modules
+package-lock.json
+gulp/version.json
